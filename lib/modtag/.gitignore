@@ -1,0 +1,7 @@
+__pycache__/
+testfiles/
+temp/
+*.exe
+*.mod
+*.zip
+*.wav
